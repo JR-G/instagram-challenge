@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/
+node_modules/
+package-lock.json
+package.json
+pom.xml
+target/
+webpack.config.js
