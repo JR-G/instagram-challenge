@@ -9,4 +9,4 @@ pom.xml
 target/
 webpack.config.js
 .mvn
-uploaded-pics/
+images/
